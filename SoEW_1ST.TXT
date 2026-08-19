@@ -1,0 +1,127 @@
+          Touhou Project 2nd Work
+               Touhou Fuumaroku
+
+■0. Introduction
+    Thank you very much for purchasing
+        Shrine Maiden Vertical Scrolling Shooting
+                Touhou Fuumaroku
+    Please read this manual carefully and enjoy
+    the quite unusual world of shrine maidens.
+
+■1. System Requirements
+    ● PC-98 / EPSON PC with EGC (VX or later)
+    ● 386 or higher required (486 33MHz or higher recommended)
+    ● 520KB or more of free main memory
+    ● FM sound source (86 compatible)
+    ● MIDI sound source (MPU) supported
+    (MIDI may not sound as intended without
+    an SC-88 compatible device)
+
+■2. Installation Method
+    Insert the floppy disk into the drive, set that
+    drive as the current drive, and from the command line:
+
+      INSTALL [destination drive name]:
+
+    Example) INSTALL A:   (Install to drive A)
+
+    Enter this and press Return to execute.
+    Please note that approximately 2MB of free space is
+    required on the destination drive during installation.
+
+    (For manual installation)
+    Copy HUMAROKU.EXE to the installation destination and execute it.
+    HUMARIKU.EXE can be deleted after installation as it's no longer needed.
+
+■3. How to Start
+    Set the installation directory as current, and from
+    the command line, enter:
+      GAME
+    The title screen will be displayed with 6 options:
+      START         ・・・ Start the game
+      EXTRA START   ・・・ Start Extra stage (conditions apply)
+      HISCORE       ・・・ View high scores
+      OPTION        ・・・ Change various settings
+      MUSIC MODE    ・・・ Listen to music and read comments
+      QUIT          ・・・ Return to DOS
+
+■4. Character Introduction
+
+    ★  Protagonist ... Hakurei Reimu
+
+    Shrine maiden of Hakurei Shrine. Born with spiritual power
+    but lacks training. Her personality is optimistic, and even
+    in emergencies like this, she doesn't worry at all, thinking
+    her spiritual power will handle it somehow.
+
+    ★  Turtle ... Genjii
+
+    A turtle that has acquired various divine powers through
+    a long life. Possesses the ability to fly freely using
+    the Flight Hermit technique.
+
+    ★  Yin-Yang Orbs ... Hakurei Shrine's greatest treasure
+
+    Orbs made of mysterious mineral filled with spiritual power.
+    This time, two Yin-Yang Orbs are attached to Reimu's left and right.
+
+■5. Game Content
+
+    A vertical scrolling shooting game set in the mysterious world
+    surrounding a shrine maiden.
+    A shooter with bullet counts and hitbox size that would
+    surprise even DoDonPachi. Don't be overwhelmed by the bullets...
+    All 5 stages (+ 1 stage).
+
+■6. Controls
+
+    ● Player movement
+          Cursor                Numpad
+            ↑                   7 8 9
+           ← →                  4   6
+            ↓                   1 2 3
+
+    ● Z Key      Fire card shots.
+          Holding it down auto-fires, but rapid tapping
+          slightly increases fire rate.
+          Can defeat bosses faster.
+
+    ● X Key      Use Spirit Strike.
+          Number of uses shown on screen.
+
+    ● ESC Key    Pause.
+          Press ESC again during pause to resume.
+
+■7. About Items
+    P     ・・・ Power-up. Many appear. Increases spiritual power.
+    Point ・・・ Score. Higher points when collected at top of screen.
+                (51200 ~ 2000)
+                On HARD, LUNATIC, EXTRA: 2x, 4x, 8x respectively.
+    B     ・・・ Spirit Strike. Can hold up to 5.
+    S     ・・・ Greatly increases spiritual power.
+    1up   ・・・ Adds one Reimu. Max 5.
+
+■8. Other Information
+
+    Extends at 1 million, 2 million, 3 million, 5 million,
+    and 8 million points.
+
+    When lives reach zero, Spirit Strike usage increases by 2.
+    Don't give up.
+
+■9. Afterword
+    For the story and detailed controls,
+    please read "SoEW.TXT" after installation.
+
+    If you encounter any problems such as being unable
+    to install or disk defects preventing gameplay,
+    please contact us at the address below:
+
+－－－－－－－－－－－－－－－－－－－－－－－－
+355
+Saitama Prefecture, Higashimatsuyama City,
+Motojuku 1-6-5, Nakamura Building Room 208
+                    Jun'ya Ota (ZUN)
+
+    Takemoto-like shrine maidens, but hardcore gameplay...
+                                    Uja uja

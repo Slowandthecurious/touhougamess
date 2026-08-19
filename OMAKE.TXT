@@ -1,0 +1,291 @@
+===============================================================================
+
+                   Touhou Fuumaroku - Bonus Monologue
+
+                 Contains game strategies and hints.
+
+         If you think this game is difficult, try reading this.
+                  Probably won't help though.
+
+                                                                            ZUN
+
+○Marisa's Touhou Fuumaroku Strategy Guide ====================================
+
+    Yaho~, it's Marisa. Have you all gotten good enough to beat me no-continue?
+  If you say you can't, you'll never beat Mima-sama.
+    So, I'll teach you strategies and hints for this game~.
+
+  ●About Reimu's Types
+      Reimu's combat type can be chosen from three at start. The types
+    from left are High Mobility Type, Defense Type, and Attack Type. Let me
+    briefly explain each.
+
+      High Mobility Type  ・・ Highest movement speed, so hard to miss items.
+                              Also easiest to dodge bullets I think.
+                                Shot doesn't fire anything from options even when
+                              you get them (laugh). Instead, Reimu's cards are
+                              wide and cover a broad range.
+                              Power up increases bullet count nicely.
+                                But worry is still firepower. That's
+                              still a bit low. So boss battles may take a while.
+                                But at max power, it's different. After all,
+                              the two big forward cards actually penetrate. Super
+                              powerful too. So maintaining max power is the
+                              key point for this type.
+
+      Defense Type      ・・・ Defense doesn't mean you don't die in one hit, so what's
+                              strong? Bomb performance is high. Bomb power and
+                              invincibility time are strong.
+                                Movement speed is normal, and shot is balanced too.
+                              Meaning it's a balanced type.
+                                Actually, shots from options have better performance
+                              than Attack Type, though fewer in number.
+                                At max power, search shot is added making it somewhat
+                              stronger I think.
+                                This type is overwhelmingly easiest to clear.
+
+      Attack Type       ・・・ This type has literally the most power.
+                              Lowest movement speed so tends to miss items. Though
+                              slow, this game itself has high movement speed standard,
+                              so it's actually easier to handle.
+                                But actually not much power at low power level.
+                              Meaning, gets strong in latter half. Max power is too
+                              strong, so when that happens, just don't die.
+                                Can defeat bosses fast is the appeal.
+
+
+    That's the type explanation, but to summarize:
+      #1 for earning points is High Mobility Type.
+      #1 for easy clear is Defense Type.
+      #1 for easiest boss battles is Attack Type.
+    Conversely, the bottleneck for all-character clear is probably High Mobility Type.
+
+  ●About Bombs
+      It's not bombs, it's Spirit Strike, I know.
+    So, supplementary explanation about bombs (she doesn't get it).
+
+      Bombs make you invincible the instant you press. Meaning, if you pressed
+    bomb but died, you died before it traveled from brain to finger.
+
+      Bomb power is minimal, but if you use invincibility to get close and shoot,
+    it becomes decent power.
+
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+    Now then, let's list points I think are relatively difficult.
+
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 1
+      Stage 1 has no particular problems, right? If anyone dies from bullets during
+    the boss laser, enter between the two lasers. It's a safe spot against bullets.
+    If the following bullets look undodgeable, feel free to use a bomb.
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 2
+      What to watch out for in Stage 2 is not taking bullets thinking they're items
+    in the latter half. These bullets accelerate straight down, meaning they fall
+    just like items. Be careful.
+
+    Boss is a bit strong if you're not careful.
+    ・For bullets after the first cut, dodge by moving little by little so you don't
+      get cornered, feels good.
+    ・During V-shape or diamond, random bullets come out. Be careful. Use bomb when
+      dangerous.
+    ・Final phase has reflecting bullets. Trajectory is harder to read than it looks,
+      so may be tough sometimes. Basically stay at the bottom and dodge big with only
+      left-right movement. Even dodging by a hair is dangerous because of reflection.
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 3
+      Surprisingly many people struggle with Stage 3.
+      ・Round small fry that shoot bullets have all aimed bullets. Pull them in and
+        move, works well.
+      ・Mid-boss has many bullets but zero random elements. Meaning, you can always
+        dodge the same way. Try finding an easy way to dodge. Bomb works too though.
+
+      Difficult parts of Stage 3 boss:
+      ・First, green bullets from both ends. When switching, move big once and a gap
+        appears making it easy to dodge.
+      ・Next, when middle closes again, first carefully dodge white bullet scatter,
+        then left-right green pincer bullets come. For this, stay in middle, and when
+        it gets bad, escape outside. White bullet scatter comes immediately so be careful.
+      ・When middle opens again, laser attack comes. When it comes from the edge, be in
+        middle, and by the time thin line appears from middle, escape to edge. Then
+        staying at screen edge is OK.
+      ・After that, it's spirit.
+
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 4
+      Stage 4 mid-boss attacks randomly from the following:
+          1. Single bullet straight down.
+          2. Random bullet scatter downward
+          3. Homing bullets
+          4. Laser
+          5. 5-WAY
+
+      Consider 1, 2, 3 lucky.
+      4 needs care. Won't hit at screen edge, but especially watch out with slow types.
+      5 is probably difficult. Can only say watch carefully.
+
+      Stage 4 boss, meaning me. I'm strong.
+      Attack order is random so you have to respond after seeing.
+      Basically destroy bits as fast as possible when attached. Attacks are fiercer
+      when bits are attached. However, when all 4 are destroyed, sometimes strong
+      attacks come. Be careful.
+          When bits are attached:
+          1. Main body ramming attack
+          2. Spinning white bullet scatter
+          3. Star rain
+          4. Spread bits and attack
+          5. Spread only 2 bits and bullets from bits
+        Random from these.
+
+      ・For 1, rotate around screen matching boss and it's OK. When you destroy all bits
+        at this time, it changes to 3-WAY from main body but dodge the same way.
+      ・For 2, looks easy when you watch carefully. But if boss is too close, bomb works.
+      ・For 3, this attack alone isn't that scary, but depending on the next attack,
+        sometimes can't dodge. Bomb perhaps.
+      ・For 4, time it and enter the ring of bits. The safe spot for following bullets
+        from main body is slightly left or right from directly in front.
+      ・For 5, also enter between the two bits. After that, as the ring shrinks,
+        simultaneously the remaining 2 bits' ring grows so escape outside immediately.
+
+      Here, during 3, or when stars remain on screen, if you destroy all bits,
+      bullets increase dangerously. Be careful.
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  LAST STAGE
+      Last boss is divided into 5 phases.
+
+      1. White bullet 16-direction tiers + 5-WAY
+      2. Ramming + 16-direction bullets
+      3. Giant spinning bullets
+      4. White bullet scatter in rotation
+      5. White bullets in fan from left and right, then 3-WAY in middle
+      6. Giant spinning bullets, burst
+      7. High-speed 3-WAY in fan from left and right
+      8. Star 4-WAY reflecting bullets
+      9. Giant spinning bullets spread into bullets
+      10. High-speed scatter of blue-white and white bullets
+      11. Blue-white bullet 5-WAY + 4-WAY
+      12. Blue-white bullets radiating
+
+      1~3 is Phase 1.
+      4~6 is Phase 2.
+      7~9 is Phase 3.
+      Phase 4 is powered-up versions of 1~9.
+      10~12 is Phase 5 (only up to Phase 5 on no-continue)
+
+      Something like that.
+
+      Of these, difficult ones are 4, 8, 12.
+      ・For 4, gradually speeds up, so fast bullets overtake slow bullets from early on.
+        First dodge fast bullets, then carefully dodge slow bullets.
+      ・For 8, first receive 4-way directly under boss. Soon 4-way starts moving left and
+        right, so move yourself matching it. Direction reverses midway, so change your
+        direction with good timing too.
+          When this attack comes in Phase 4, it's quite difficult. Fine to use bomb.
+      ・For 12, only on no-continue, but bullets have quite narrow intervals, so if you
+        don't lure boss to left or right before this attack, it's quite tight.
+          First, lure to the edge.
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  EXTRA STAGE
+
+      Figure this out yourself.
+
+      Just kidding, that's too mean, so I'll only teach boss attack patterns.
+
+      1. Rain massive bullets straight down while moving left and right.
+      2. Explode at 2 places at bottom of screen, 5-way
+      3. High-speed 32-direction bullets while moving in triangle
+      4. Surround player with explosions, 32-direction bullet barrage
+      5. 16-direction bullet barrage while moving in triangle
+      6. From screen edge, shoot reflecting bullets straight down + Laser
+      7. Laser + reflecting bullet 5-way straight up
+      8. Massive explosions toward player + 16-direction bullet barrage
+      9. Explosion at player location + 32-direction bullets
+      10. Pincer player with bullets, explosion at player location
+      11. High-speed spinning bullets
+      12. Explosion at player location + 16-direction bullets (massive)
+      13. Self-destruct ultra-thick laser
+
+
+      Something like that. Good luck. Giggle
+
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+○Reimu's Advanced Strategy for Scorers =======================================
+
+    Hi~, hello to all scorers nationwide, I'm the protagonist Reimu.
+  This time, I'll teach you how to earn points in this game and key points.
+
+      First, about the key to scoring in this game, point items. These items
+    are worth more the higher on screen you collect them.
+
+      Collect at the very top and it's a whopping 51,200 points!!
+    At the bottom of screen, drops to 2,000~3,000 points.
+
+      This difference is very large. If possible, I'd like to make all point
+    items 51,200 points.
+
+      I've listed places where you can get 51,200 points. (On Normal)
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 1
+      Stage 1, first get 51,200 points from mass ghosts. This involves luck, but I
+    want close to 300,000 by the bridge. Turrets at both ends of bridge definitely
+    drop point items. This also involves luck.
+    Then mass ghosts before boss. This is surprisingly difficult.
+    Goal is to exceed 1 million before boss. Actually can earn more.
+
+    Clear Target  1.5 million
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 2
+      Stage 2 challenge: first crows. What's challenging is they shoot aimed bullets
+    and spawn position is random, so hard to collect. Spirit perhaps.
+      After that, Stage 2 can probably collect most items at 51,200 points. Then
+    before boss should be around 3.5 million perhaps.
+
+    Clear Target  4.1 million
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 3
+      First ghosts are no problem right? Next round small fry are quite tough, so if
+    you can't collect, can't be helped.
+      This stage's latter half white round small fry. Where this small fry appears
+    in massive numbers is important. How much you can earn in this game is almost
+    decided here, so be careful.
+      Always defeat at top of screen and collect items. Don't die from ramming.
+
+    Clear Target  10~11 million
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 4
+      Around here you need to avoid dying. Don't push too hard.
+      Stage 4, after first mid-boss, green small fry. Work a bit here for
+    51,200 points. Power-up items are also 12,800 points so collect as much as possible.
+
+      What to watch out for in Stage 4: absolutely don't die. Can't let Marisa beat
+    you either.
+
+    Clear Target  14.5~16 million
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  ●  STAGE 5
+      Stage 5 has no more point items. Watch out not to die in Stage 4.
+      Otherwise, the massive power-up items here won't be 12,800 points.
+    That's a loss.
+
+    Clear Target  16.5 million~
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+      How about that? By the way, the author exceeded 18 million (High Mobility Type).
+    I wonder how high it can go... Hehe.

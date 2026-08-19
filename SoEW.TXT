@@ -1,0 +1,456 @@
+
+                              ･･････････････                                   
+                            ･･      ･･%%%%%%･･                                 
+   ★                     ･･      ･･%%%%%%%%%%･･                               
+                        ･･      ･･%%  %%%%%%%%%%･･                             
+                       ･        ･･%%%%%%%%%%%%%%%%･                            
+                       ･          ･･%%%%%%%%%%%%%%･                   ★       
+______________________ ･            ･･%%%%%%%%%%%%･  |_________________________
+                       ･              ･･%%%%%%%%%%･  |                         
+                       ･                ･･%%%%%%%%･  |                         
+         ★             ･･          %%  ･･%%%%%%･･   |                         
+                          ･･          ･･%%%%%%･･    /                          
+                            ･･      ･･%%%%%%･･    /                            
+                              ･･････････････    /                              
+                                 _____________/            ★                  
+
+                        Touhou Project 2nd Work
+                            Touhou Fuumaroku
+
+                        PC-98/EPSON PC Exclusive
+                Vertical Scrolling Shrine Maiden Shooting     1997 ZUN
+
+  ■Table of Contents
+
+      1.  Touhou Fuumaroku Backstory
+      2.  System Requirements
+      3.  How to Start
+      4.  Character Introduction
+      5.  Game Content
+      6.  Controls
+      7.  About Items
+      8.  Config
+      9.  Other Information
+      10. Touhou Project
+      11. Touhou Q&A
+      12. Touhou Afterword
+
+
+
+
+  ■1. Touhou Fuumaroku Backstory
+
+      Here in the mountains of an eastern country, Hakurei Shrine was relatively peaceful.
+    The shrine maiden of Hakurei Shrine, Reimu, had been training in the mountains to
+    increase her spiritual power.
+      Her training(?) was going well, but when Reimu suddenly said she wanted to sleep
+    in a futon, they decided to return to the shrine for the time being.
+      However, when they returned to the shrine, it had been infested with massive amounts
+    of youkai, and other non-human things, weirdos, etc.
+
+      Reimu: "What is this? I can't sleep peacefully like this! Perfect, I'll show you
+    the fruits of my training!"
+
+      However, training-hating Reimu had gone into the mountains for the hidden hot springs
+    commonly found in mountains and delicious autumn flavors, so she hadn't really trained
+    much at all.
+
+      Genjii: "Milady, these youkai are strangely well-organized. Which means there must
+    be a ringleader somewhere. Also, I sense some kind of foreign power... Anyway, I suppose
+    I'll go with you."
+
+      Genjii the turtle, Reimu's servant, said this while worrying about Reimu.
+
+      Reimu: "Even if you hadn't said that, I was planning to bring you along. I can't
+    fly by myself..."
+
+      And so, Reimu took Genjii, and as usual with the Hakurei Shrine's greatest treasure,
+    the Yin-Yang Orbs, headed to the Hakurei Shrine to exterminate youkai and investigate
+    the cause.
+      She would meet various strange people in various strange places...
+
+      Reimu: "It's super weird (in Asagaoka Eriko's voice)"
+
+
+
+
+
+
+  ■2. System Requirements
+
+    PC-98 or compatible machine exclusive. (EGC equipped models)
+    Runs on 386 or higher, but may be tough without a 486. Actually,
+    fast VRAM access is most important.
+    Options can reduce heavy processing effects.
+    Also, MSDOS is required.
+
+    CPU has only been tested on 486 (66MHz), so very slow models
+    might not work well.
+    By the way, on 486 (66MHz) there's no slowdown or missing elements.
+    Being a shooter, slowdown makes it easier, but during gameplay it can
+    become very hard to see at times, which isn't good for mental health.
+
+    FM sound source (86 compatible) is nice.
+    MIDI sound source (SC-88 compatible) is quite nice.
+
+    If the game won't start, try freeing up some memory.
+    Actually, 520k free should be enough.
+
+    When running in DOS under Windows, don't use in a DOS window, use
+    fullscreen.
+
+    Of course (^^;, back VRAM is not saved, so disable any TSRs using
+    it before starting the game.
+
+
+
+
+
+
+  ■3. How to Start
+    Execute GAME.BAT and the title screen will display 6 options:
+            START       ・・・ Start the game.
+            EXTRA START ・・・ Start Extra stage. (Conditions apply)
+            HISCORE     ・・・ View current high scores.
+            OPTION      ・・・ Change various settings. (See below)
+            MUSIC MODE  ・・・ Listen to music and read comments.
+            QUIT        ・・・ End game and return to DOS.
+
+    Always start from the batch file. Don't start from the main program.
+
+
+
+
+
+
+
+  ■4. Character Introduction
+
+    ★  Protagonist ... Hakurei Reimu
+
+          Shrine maiden of Hakurei Shrine. Born with spiritual power but lacks
+        training. She attacks with cards and 'Spirit Strike' by releasing spiritual
+        power. She exterminates youkai with the power of the 'Yin-Yang Orbs'.
+          Her personality is optimistic, and even in emergencies like this, she
+        doesn't worry at all, thinking her spiritual power will handle it somehow.
+
+          This time, she fights (for some reason) riding a turtle.
+
+    ★  Turtle ... Genjii
+
+          A turtle that has acquired various divine powers through a long life.
+        Captured during Reimu's training and worked to the bone. Possesses the ability
+        to fly freely using the Flight Hermit technique.
+
+    ★  Yin-Yang Orbs ... Hakurei Shrine's greatest treasure
+
+          Orbs made of a mysterious mineral filled with spiritual power. At first glance
+        just ordinary orbs that don't seem like weapons, but when used by someone of
+        Hakurei blood, they emit terrifying spiritual power.
+          This time, two Yin-Yang Orbs are attached to Reimu's left and right.
+
+
+
+
+
+  ■5. Game Content
+
+      A vertical scrolling shooting game set in the mysterious world surrounding
+    a shrine maiden.
+      Defeat enemies, collect items, and dodge bullets. (^_^;
+      A shooter with bullet counts and hitbox size that would surprise even DoDonPachi.
+      Don't be overwhelmed by the bullets...
+      All 5 stages (+ 1 stage).
+
+
+
+
+
+  ■6. Controls
+
+      ● Player movement
+
+                Cursor                  Numpad
+
+                  ↑                     7  8  9
+
+                ←   →                   4     6
+
+                  ↓                     1  2  3
+
+
+      ● Z Key      Fire card shots.
+                    Holding down auto-fires, but rapid tapping slightly
+                    increases fire rate.
+                    Can defeat bosses faster.
+
+      ● X Key      Use Spirit Strike.
+                    The so-called bomb. Grants instant invincibility.
+
+      ● ESC Key    Pause.
+                    Press ESC again during pause to resume.
+
+                    You can also quit the game from the pause MENU.
+
+      During name entry:
+
+          Z key to confirm one character.
+          X key to delete one character.
+          Enter or ESC key to finish.
+
+
+
+
+
+
+  ■7. About Items
+
+      P     ・・・ Power-up. Many appear. Collecting many
+                  increases spiritual power.
+
+      Point ・・・ Score. Various clear bonuses are multiplied.
+                  On HARD, LUNATIC, EXTRA: 2x, 4x, 8x respectively.
+
+      B     ・・・ Spirit Strike. Can hold up to 5. Don't miss them.
+
+      S     ・・・ Greatly increases spiritual power. Don't miss it.
+
+      1up   ・・・ Adds one Reimu. Max 5. Missing this means death.
+
+
+
+
+
+
+  ■8. Config
+
+      RANK  ・・・ Difficulty.
+                  EASY        Easy shooting game.
+                  NORMAL      Normal difficulty. Slightly easier than
+                             arcade games. About 2x harder than EASY.
+                  HARD        More bullets.
+                             Just right for arcade shooters.
+                  LUNATIC     Has revenge bullets. 2nd loop level
+                             difficulty.
+
+                  4 levels available.
+                  Default is NORMAL.
+
+      MUSIC ・・・ Sound source setting.
+                  MIDI (MPU), FM, or off (no music)
+                  can be selected.
+                  MIDI requires SC-88 compatible device with MPU.
+                  MIDI slightly reduces speed, so caution on slow machines.
+                  Also, MIDI still uses FM sound source for sound effects.
+                  MIDI alone won't produce sound effects.
+                  Default is FM (if sound source available).
+
+      PLAYER・・・ Number of Reimus.
+                  Choose from 1 to 5.
+                  More players is easier, but bonus points drop.
+                  Default is 3.
+
+      BOMB  ・・・ Number of Spirit Strikes.
+                  Choose from 0 to 3.
+                  Default is 3.
+
+      Effects ・・ Choose normal or partially reduced.
+                  If no slowdown, choose normal.
+                  If normal is heavy and scrolling is rough, partially reduced
+                  should improve it somewhat.
+                  Especially Stage 4 is heavy, so if Stages 1-3 slow down,
+                  you might want to choose partially reduced.
+                  Game balance doesn't change.
+
+      RESET ・・・ Returns all config to default settings.
+
+      MUSIC MODE ・・・ Listen to music used in the game.
+
+      QUIT  ・・・ Exit config screen.
+
+
+
+
+
+  ■9. Other Information
+
+      About Extend (1up)
+
+        Extends at 1 million, 2 million, 3 million, 5 million, and 8 million.
+
+        When reaching these points, if already at max lives (5), Spirit Strike
+        usage increases by 1. If already holding 5 bombs, nothing happens.
+
+
+      When lives reach zero...
+
+        Only when lives reach zero does Spirit Strike usage increase by 2. Even
+        if you extend after this and die again reaching zero, it increases by 2,
+        so don't give up and keep trying.
+
+
+      About Clear Bonus
+
+        Bonuses include difficulty, stage, bomb, and miss.
+
+            Difficulty  Easy        ・・・        0 points
+                        Normal      ・・・    2,000 points
+                        Hard        ・・・    4,000 points
+                        Lunatic     ・・・    6,000 points
+
+            Stage       0 points ~ 6,400 points
+                       Based on no-miss time, continue count, etc.
+
+            Bomb        2,500 - Uses this stage × 500
+
+            Miss        3,000 - Deaths this stage × 1,000
+
+            Initial Bombs   (4 - Initial bomb setting) × 800
+
+            Initial Reimu   (5 - Initial player setting) × 1,000
+
+
+          The sum of all above multiplied by the number of point items
+          collected in that stage becomes the clear bonus.
+
+
+
+
+
+  ■10. Touhou Project
+
+      How did you like Touhou Project 2nd Work, Touhou Fuumaroku?
+
+      I (ZUN) call this the Touhou Project, and I want to create games set in a
+    world surrounding shrine maiden Hakurei Reimu - not ordinary shrine maiden
+    games (?), but games with a slightly strange world.
+
+    ● Touhou Project Works
+
+      The memorable 1st Work
+        Touhou Reiiden ... Single-screen action shooting (with puzzle elements)
+                          Reimu challenges battles in Makai and Hell.
+                          Hardcore difficulty, unusual systems, etc.
+                          Recommended for unconventional gamers.
+
+      The memorable 2nd Work
+        Touhou Fuumaroku ... This work. Vertical scrolling shooter.
+                          Hitbox smaller than even DoDonPachi would be surprised by,
+                          and massive bullet counts.
+                          Special effect bullets like lasers and reflecting bullets
+                          not seen in DoDonPachi make for high visual impact.
+
+
+
+      Future plans (48% lies).
+
+        Touhou Yumejikan (tentative) Miko miko side-scrolling action.
+                          Whether side-scrolling is (technically) possible is a mystery.
+                          But I want to try making it.
+
+      Also, falling block puzzles, versus fighting, MIDI music collection (haha), etc.
+      Something with lots of movement would be good.
+
+        Some people might (or might not) understand from the ending atmosphere,
+      but the author (ZUN) is a Takemoto fan.
+      I want to continue making games with that atmosphere but hardcore gameplay.
+
+
+
+
+  ■11. Touhou Q&A
+
+    Q: Game won't start, why?
+
+    A: Possible causes: Not a PC-98 (^^;, insufficient memory,
+       incompatible TSR, etc.
+       To avoid these: Run on 98 or compatible. Free up about 520k
+       main memory. Disable TSRs as much as possible. If still failing,
+       program or data may be corrupted.
+       Keep this game in one directory separate from other data.
+
+
+    Q: Game started but won't START. Why?
+
+    A: Probably memory shortage. (Or a bug (^^;)
+
+
+    Q: Game started but no sound. Why?
+
+    A: Do you have FM sound source? This game won't play BGM with only
+       BEEP sound. Also, music is made for OPNA, so OPN produces
+       somewhat sad sounds. (;_;)
+
+
+    Q: No sound effects. Why?
+
+    A: Do you have FM sound source? This game won't produce sound effects
+       with only MIDI sound source.
+
+
+    Q: High score seems weird.
+
+    A: If a bug occurred mid-game but the game continued and recorded
+       a high score, strange data may remain.
+       In that case, delete HUUHI.DAT in the same directory. Scores
+       will be reset.
+
+
+
+    Q: Bullets are hard to see~, do something.
+
+    A: Hmm, on notebook LCDs, fast bullets might be hard to see. Also,
+       debris when defeating enemies (just 1-dot points) are almost
+       invisible. Can't do anything about this.
+
+
+    Q: Why shrine maidens?
+
+    A: Mystery (^^; but shooters with space and mechs are common.
+       However, shooters with this kind of world tend to be comical,
+       with large characters and bullets, few bullets but hard to dodge,
+       so I dared to make a hardcore shooter with shrine maidens. Enjoy
+       this gap.
+
+
+    Q: Myu~?
+
+    A: We cannot answer that question.
+
+
+
+
+
+
+
+
+  ■13. Touhou Afterword
+
+
+      Copyright for the programs and data used belongs to the author.
+
+      This program is not freeware. Unauthorized reproduction, transfer,
+    distribution, etc. constitutes copyright violation. Of course, distributing
+    modified versions is absolutely out of the question.
+
+
+      Also, copyright for FM sound drivers P.M.D. and M.M.D. belongs to
+            M.Kajihara (KAJA).
+      Thank you for the wonderful drivers.
+
+      Questions, opinions, feel free (like "Too hard," "Music too good," etc.)
+
+
+
+    Contact
+
+      TEL  0493-35-3016-208
+
+      355  Saitama Prefecture, Higashimatsuyama City, Motojuku 1-6-5, Nakamura Building 208
+
+                                                                        Jun'ya Ota (ZUN)
+
+
+          Takemoto-like shrine maidens, but hardcore gameplay...
+                                                              Uja uja
+                                                                   ...Do you know?
